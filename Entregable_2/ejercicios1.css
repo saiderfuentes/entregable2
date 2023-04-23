@@ -1,0 +1,45 @@
+body{
+    background: #F5F5F5;
+}
+section{
+    background: #F5F5F5;
+    position: relative;
+    width: 600px;
+    left: 30%;
+}
+
+.parrafo1{
+    font-family: Arial;
+    font-size: 12px; 
+    font-weight: bold; 
+}
+
+.parrafo2{
+    background: yellow;
+    width: 300px;
+    margin: 10px;
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+
+nav:nth-of-type(5) {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+nav:nth-of-type(6) {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+footer{
+    font-family: Arial;
+    font-size: 12px; 
+    font-weight: bold;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
